@@ -8,7 +8,4 @@ The project in its current state has been tested to build and run on OS X and Wi
 
 ## History
 
-Going by the file date timestamps, it looks like I wrote a first version in 2007 and then upgraded it a bit in 2009.
-
-
-
+Going by the file timestamps, it looks like I wrote a first version in 2007 and then upgraded it a bit in 2009.
