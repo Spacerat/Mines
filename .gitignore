@@ -1,0 +1,11 @@
+old
+*.exe
+*.debug
+*.bak
+*.lol
+.bmx
+*.app
+*.psd
+*.zip
+*.log
+*.docx
